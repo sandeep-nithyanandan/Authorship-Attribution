@@ -39,3 +39,4 @@ Then run the file "test.py" to perform the prediction.
 
 are extracted.
 
+A comparative study on which feature is essential for discriminating the author is also perfomed.
