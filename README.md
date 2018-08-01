@@ -32,6 +32,7 @@ which is necessary for the exectuion.
 Then run the file "test.py" to perform the prediction.
 
 2 set  of features:
+
 1)Functional 
 
 2)Structural
